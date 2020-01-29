@@ -1,2 +1,2 @@
 # FPS1
-My First FPS Game
+My First Shooter Game (Not FPS)
